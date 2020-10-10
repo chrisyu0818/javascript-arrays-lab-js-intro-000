@@ -7,3 +7,4 @@ return kittens.push(name)
 function destructivelyPrependKitten(name) {
   return kittens.unshift(name)
 }
+
